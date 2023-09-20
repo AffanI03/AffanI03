@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AffanI03
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning and creating projects using HTML, CSS, JavaScript
 - 📫 How to reach me - affanijaz@outlook.com, ai2028@hw.ac.uk
 
 <!---
