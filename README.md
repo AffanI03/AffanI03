@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on learning and creating products using HTML, CSS and JavaScript
 - 📫 How to reach me: affanijaz@outlook.com. ai2028@hw.ac.uk
 - 
-Demonstrates the ability to create a GitHub account (and a repository).
+Demonstrates the ability to create a GitHub account (and a repository). 
 Add a README- DONE
 Add/remove various files/folders (.jpg, .gif, .png, .txt, .html). - DONE
 Repository Basics:
