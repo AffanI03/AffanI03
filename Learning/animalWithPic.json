@@ -1,0 +1,6 @@
+{
+    "name": "Barksalot",
+    "species": "Dog",
+    "age": 5,
+    "photo": "images/DogPicforJSON.jpeg"
+  }
