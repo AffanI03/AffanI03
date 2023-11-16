@@ -13,7 +13,7 @@ Repository Basics:
 Can create a new repository on GitHub. -DONE
 Understands the purpose of a README file. - DONE
 Knows how to initialize a repository with a README.
-Can describe the importance of .gitignore files.
+Can describe the importance of .gitignore files. - DONE
 
 Cloning and Forking:
 Understands the difference between cloning and forking a repository. - DONE
@@ -42,5 +42,5 @@ Understands how to resolve merge conflicts.
 Knows how to use comments and discussions in pull requests. -DONE
 
 Documentation:
-Understands the importance of documenting repositories with a README and other documentation files.
+Understands the importance of documenting repositories with a README and other documentation files. - DONE
 Good understanding of the markdown syntax (.md) used for README and other documentation (e.g., inserted titles, images, subsections, code blocks, …)
