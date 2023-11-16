@@ -21,25 +21,25 @@ Can clone a repository to a local machine. - DONE
 Can fork a repository to their own GitHub account. -DONE
 
 Branching:
-Knows how to create a new branch in a repository.
-Understands the purpose of branches in version control.
+Knows how to create a new branch in a repository. - DONE
+Understands the purpose of branches in version control. - DONE
 Can switch between branches.
-Can merge branches using pull requests.
+Can merge branches using pull requests. - DONE
 
 Commits:
 Can make and commit changes to a repository. -DONE
 Understands the importance of clear and descriptive commit messages. -DONE
-Knows how to undo changes (revert back to older version).
+Knows how to undo changes (revert back to older version). - DONE
 
 Pull Requests:
 Can create a pull request to propose changes. -DONE
-Understands the review process and how to request reviews.
-Knows how to address feedback and make changes in a pull request.
+Understands the review process and how to request reviews. - DONE
+Knows how to address feedback and make changes in a pull request. - DONE
 
 Collaboration:
 Can collaborate with others by forking and contributing to open-source projects.
 Understands how to resolve merge conflicts.
-Knows how to use comments and discussions in pull requests.
+Knows how to use comments and discussions in pull requests. -DONE
 
 Documentation:
 Understands the importance of documenting repositories with a README and other documentation files.
