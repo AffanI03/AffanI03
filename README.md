@@ -12,7 +12,7 @@ Add/remove various files/folders (.jpg, .gif, .png, .txt, .html). - DONE
 Repository Basics:
 Can create a new repository on GitHub. -DONE
 Understands the purpose of a README file. - DONE
-Knows how to initialize a repository with a README.
+Knows how to initialize a repository with a README. - DONE
 Can describe the importance of .gitignore files. - DONE
 
 Cloning and Forking:
@@ -23,7 +23,7 @@ Can fork a repository to their own GitHub account. -DONE
 Branching:
 Knows how to create a new branch in a repository. - DONE
 Understands the purpose of branches in version control. - DONE
-Can switch between branches.
+Can switch between branches. DONE
 Can merge branches using pull requests. - DONE
 
 Commits:
@@ -38,7 +38,7 @@ Knows how to address feedback and make changes in a pull request. - DONE
 
 Collaboration:
 Can collaborate with others by forking and contributing to open-source projects.
-Understands how to resolve merge conflicts.
+Understands how to resolve merge conflicts. DONE
 Knows how to use comments and discussions in pull requests. -DONE
 
 Documentation:
