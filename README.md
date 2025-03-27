@@ -20,3 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Affxn/30-nites-of-code)  
+  ![@Affxn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Affxn)
